@@ -1,2 +1,5 @@
-# app-dev
-My first repository
+# The Lion King
+
+![The Lion King]https://images.moviesanywhere.com/c07276e9473360730fdbc94baebc4236/4692c964-61ba-486d-9c77-939dbfba2f07.jpg
+
+**The Lion King is a Disney property acclaimed as the Jewel of Animation. Having a great plot, funny and captivating characters and the most celebrated soundtrack in a kid's film, only compared to the likes of Frozen. The plot is elementary and straightforward, a young lion cub who cannot wait to be claimed King of the Pride Rocks finds himself in a life changing situation, when his Machiavellian and envious uncle conspires, alongside the hyenas, to overtake the kingdom and establish a dictatorship. Acquiring the advice from his old counselors (Zazu and Rafiki), the help from his new friends, Timone and Pumbaa, and the unexpected warning of a familiar face, whilst discovering the paths of love through his childhood girlfriend Nala, Simba will unshackle the Savanna from the reign of terror of Scar and returning the natural order to the Circle of Life.**
